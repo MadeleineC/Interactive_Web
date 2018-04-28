@@ -1,0 +1,21 @@
+.form-control {
+  display: inline-block;
+  width: 250px;
+  margin-top: 50px;
+}
+
+/*.navbar-header {
+	background-color: "r";
+}*/
+
+.btn-primary {
+	color: white!important;
+}
+
+.form-element-left {
+	padding-left: 20px;
+}
+
+.form-element-right {
+	padding-right: 20px;
+}
